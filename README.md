@@ -1,16 +1,21 @@
-## Hi there 👋
+## 😎 А ну-ка посмотрим, что я больше всего люблю!
 
-<!--
-**u6likk/u6likk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛑 **Ошибка 500** — мой самый частый коммит-партнёр  
+- 📝 Коммиты типа `fix: please work` и `bugfix: ну пожалуйста` обычно спасают проект  
+- 🔄 Если что-то заработало после `git push` — явно магия, держитесь, сейчас всё сломается  
+- ⛔ Люблю наблюдать, как CI ругается на мой код — если не красное, значит, сборка поехала  
+  > “Internal Server Error, не спрашивайте как это получилось”  
+- 🚀 Ветка **develop** постоянно в мерже, ветка **master** — “не трогать, иначе слёзы DevOps”
+- 🐒 Мой рабочий протокол:
+  1. Всё сломать
+  2. Закоммитить с комментом “fixed everything”
+  3. Попробовать откатить, удивиться
+  4. Сломать по-настоящему
+- 🤷 Если билд проходит с первого раза — начинаю подозревать, что тесты отключены  
+- 🧑‍💻 Девиз:  
+  > "У меня работает — поэтому баг где-то между git и продом!"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Памятка:**
+> _Stack Overflow — лучшее место для поиска новых способов сломать prod._
